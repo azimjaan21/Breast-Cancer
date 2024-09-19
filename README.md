@@ -63,6 +63,7 @@ The analysis revealed that the k-NN classifier can effectively predict breast ca
 The optimal value of 'k' was determined through the exploration of different 'k' values and Grid Search. 
 The model's performance was evaluated using various metrics, providing insights into its accuracy and effectiveness. 
 Overall, the k-NN model, along with the optimization techniques employed, demonstrates its potential for accurate breast cancer diagnosis prediction based on the provided features. However, it's crucial to consider that this is a specific analysis based on a particular dataset, and the model's generalization ability to other datasets may vary. Further investigation and refinement may be necessary to achieve higher accuracy and robustness in real-world applications.
+
 --------
 ![image](https://github.com/user-attachments/assets/610623a2-4266-424a-9353-7426334fe18f)
 --------
